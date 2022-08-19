@@ -1,0 +1,30 @@
+{
+  "name": "express-chat",
+  "version": "1.0.0",
+  "description": "A realtime chat app built using Express and SocketIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPerry26/express-chat.git"
+  },
+  "keywords": [
+    "node",
+    "socketio",
+    "express",
+    "chat",
+    "realtime"
+  ],
+  "author": "CPerry26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CPerry26/express-chat/issues"
+  },
+  "homepage": "https://github.com/CPerry26/express-chat#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1"
+  }
+}
